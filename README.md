@@ -36,7 +36,7 @@ Here's a snapshot of the technologies I enjoy working with:
 ## ✨ Featured Personal Projects
 
 - **[Environmental Sensor (Master Thesis)](https://github.com/jan-ra/ESP8266-environment-sensor)**: C++ firmware for an ESP8266 microcontroller interfacing with multiple environmental sensors.
-- **[Ship-Companion App](ramdohr.dev/ship-companion)**: A native mobile application built with Flutter (Repo is private, link leads to product page).
+- **[Ship-Companion App](https://ramdohr.dev/ship-companion)**: A native mobile application built with Flutter (Repo is private, link leads to product page).
 
 ---
 
@@ -58,6 +58,6 @@ When I'm not coding, you might find me:
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [Jan Ramdohr](https://www.linkedin.com/in/jan-ramdohr/)
-- **Personal Website:** [ramdohr.dev](ramdohr.dev)
+- **Personal Website:** [ramdohr.dev](https://ramdohr.dev)
 
 ---
