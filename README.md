@@ -1,4 +1,4 @@
-# Hi there, I'm Jan! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Jan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a **Cloud Engineer** ☁️ and **Fullstack Developer** 💻 based wherever the Wi-Fi connects!
 
