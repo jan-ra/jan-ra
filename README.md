@@ -16,31 +16,27 @@ At work, I focus on building and automating robust, large-scale hosting solution
 
 Here's a snapshot of the technologies I enjoy working with:
 
-**Languages:**
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp,dart,cs)](https://skillicons.dev)
+**Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp,dart)](https://skillicons.dev)
 
-**Frontend & Mobile:**
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,html,css)](https://skillicons.dev)
+**Frontend & Mobile:**  
+[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
 
-**Backend:**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+**Backend:**  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)
 
-**Cloud & DevOps:**
+**Cloud & DevOps:**  
 [![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,docker,bash)](https://skillicons.dev)
 
-**Data Science (Academic Background):**
+**Data Science (Academic Background):**  
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-**Tools & Other:**
-[![My Skills](https://skillicons.dev/icons?i=git,github,unity,vscode)](https://skillicons.dev)
 
 ---
 
 ## ✨ Featured Personal Projects
 
-- **[Environmental Sensor (Master Thesis)](link-to-your-repo)**: C++ firmware for an ESP8266 microcontroller interfacing with multiple environmental sensors.
-- **[Ship-Companion App](link-to-product-page-or-website)**: A native mobile application built with Flutter (Repo is private, link leads to product page).
-- **[Unity Bird Migration Game](link-to-your-repo-when-ready)**: (Coming Soon!) My first foray into game development with Unity and C#.
+- **[Environmental Sensor (Master Thesis)](https://github.com/jan-ra/ESP8266-environment-sensor)**: C++ firmware for an ESP8266 microcontroller interfacing with multiple environmental sensors.
+- **[Ship-Companion App](ramdohr.dev/ship-companion)**: A native mobile application built with Flutter (Repo is private, link leads to product page).
 
 ---
 
@@ -61,12 +57,12 @@ When I'm not coding, you might find me:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Personal Website:** [Your Website URL]
+- **LinkedIn:** [Jan Ramdohr](https://www.linkedin.com/in/jan-ramdohr/)
+- **Personal Website:** [ramdohr.dev](ramdohr.dev)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Jan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jan-ra&show_icons=true&theme=radical" alt="Jan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-ra&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
