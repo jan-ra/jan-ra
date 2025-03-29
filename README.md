@@ -60,9 +60,4 @@ When I'm not coding, you might find me:
 - **LinkedIn:** [Jan Ramdohr](https://www.linkedin.com/in/jan-ramdohr/)
 - **Personal Website:** [ramdohr.dev](ramdohr.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jan-ra&show_icons=true&theme=radical" alt="Jan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-ra&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
 ---
